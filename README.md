@@ -23,3 +23,6 @@ https://github.com/humareuka/FFmpeg-Auto-Setup-Tool/releases
 **対応していないOSの場合**
 
 対応していないと表示されます
+
+**紹介動画**
+[!['altテキスト']('https://i.ytimg.com/vi/JQU2_gONEpg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAE4jgK5roa4TOeGHCQgnHzhY1bXA')]('https://youtu.be/JQU2_gONEpg')
