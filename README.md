@@ -18,6 +18,7 @@ https://github.com/humareuka/FFmpeg-Auto-Setup-Tool/releases
 1. インストールが自動で実行されます
 2. 完了したら**管理者権限**で再度実行します
 3. インストールされていると表示されたら成功です
+   ※完全にPathを通すにはPCの再起動が必要です
 
 **対応していないOSの場合**
 
